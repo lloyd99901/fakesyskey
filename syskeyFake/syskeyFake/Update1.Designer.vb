@@ -63,6 +63,7 @@ Partial Class Update1
         Me.MaskedTextBox2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.MaskedTextBox2.Location = New System.Drawing.Point(91, 78)
         Me.MaskedTextBox2.Name = "MaskedTextBox2"
+        Me.MaskedTextBox2.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
         Me.MaskedTextBox2.Size = New System.Drawing.Size(174, 20)
         Me.MaskedTextBox2.TabIndex = 4
         '
@@ -80,6 +81,7 @@ Partial Class Update1
         Me.MaskedTextBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.MaskedTextBox1.Location = New System.Drawing.Point(91, 52)
         Me.MaskedTextBox1.Name = "MaskedTextBox1"
+        Me.MaskedTextBox1.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
         Me.MaskedTextBox1.Size = New System.Drawing.Size(174, 20)
         Me.MaskedTextBox1.TabIndex = 2
         '

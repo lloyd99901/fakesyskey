@@ -33,3 +33,16 @@ E:\Projects\Projects\syskeyFake\syskeyFake\obj\x86\Debug\syskey.Form1.resources
 E:\Projects\Projects\syskeyFake\syskeyFake\obj\x86\Debug\syskey.Resources.resources
 E:\Projects\Projects\syskeyFake\syskeyFake\obj\x86\Debug\syskey.Update1.resources
 E:\Projects\Projects\syskeyFake\syskeyFake\obj\x86\Debug\syskeyFake.vbproj.GenerateResource.Cache
+C:\Users\LloydChr\Desktop\rb\fakesyskey\syskeyFake\syskeyFake\bin\Debug\syskeyFake.exe.config
+C:\Users\LloydChr\Desktop\rb\fakesyskey\syskeyFake\syskeyFake\bin\Debug\syskeyFake.exe
+C:\Users\LloydChr\Desktop\rb\fakesyskey\syskeyFake\syskeyFake\bin\Debug\syskeyFake.pdb
+C:\Users\LloydChr\Desktop\rb\fakesyskey\syskeyFake\syskeyFake\bin\Debug\syskeyFake.xml
+C:\Users\LloydChr\Desktop\rb\fakesyskey\syskeyFake\syskeyFake\obj\x86\Debug\syskeyFake.vbprojAssemblyReference.cache
+C:\Users\LloydChr\Desktop\rb\fakesyskey\syskeyFake\syskeyFake\obj\x86\Debug\syskey.Form1.resources
+C:\Users\LloydChr\Desktop\rb\fakesyskey\syskeyFake\syskeyFake\obj\x86\Debug\syskey.Resources.resources
+C:\Users\LloydChr\Desktop\rb\fakesyskey\syskeyFake\syskeyFake\obj\x86\Debug\syskey.Update1.resources
+C:\Users\LloydChr\Desktop\rb\fakesyskey\syskeyFake\syskeyFake\obj\x86\Debug\syskeyFake.vbproj.GenerateResource.cache
+C:\Users\LloydChr\Desktop\rb\fakesyskey\syskeyFake\syskeyFake\obj\x86\Debug\syskeyFake.vbproj.CoreCompileInputs.cache
+C:\Users\LloydChr\Desktop\rb\fakesyskey\syskeyFake\syskeyFake\obj\x86\Debug\syskeyFake.exe
+C:\Users\LloydChr\Desktop\rb\fakesyskey\syskeyFake\syskeyFake\obj\x86\Debug\syskeyFake.xml
+C:\Users\LloydChr\Desktop\rb\fakesyskey\syskeyFake\syskeyFake\obj\x86\Debug\syskeyFake.pdb
